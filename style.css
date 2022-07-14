@@ -1,0 +1,30 @@
+ body{ 
+    font-family: sans-serif;
+    background-color: rgb(229, 255, 0);
+    display: grid;
+ }
+ table,th,td{
+border: 1px solid rgb(0, 0, 0) ;
+cursor:pointer;
+}
+thead {
+background-color: rgb(8, 83, 180) ;
+border: solid rgb(0, 0, 0) ;
+ }
+ tbody tr td {
+color: rgb(0, 0, 0);
+ }
+ table tr td {
+ border: 1px solid;
+ padding: 6px;
+ 
+ }
+ th:hover{
+    background-color: rgb(13, 253, 0);
+ }
+ tbody tr:hover{
+    background-color: rgb(7, 127, 232);
+ }
+
+
+ 
